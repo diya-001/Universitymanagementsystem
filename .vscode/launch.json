@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StudentFeeForm",
+            "request": "launch",
+            "mainClass": "university.management.system.StudentFeeForm",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "About",
+            "request": "launch",
+            "mainClass": "university.management.system.About",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "FeeStructure",
+            "request": "launch",
+            "mainClass": "university.management.system.FeeStructure",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "ExaminationDetails",
+            "request": "launch",
+            "mainClass": "university.management.system.ExaminationDetails",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Marks",
+            "request": "launch",
+            "mainClass": "university.management.system.Marks",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "EnterMarks",
+            "request": "launch",
+            "mainClass": "university.management.system.EnterMarks",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "UpdateTeacher",
+            "request": "launch",
+            "mainClass": "university.management.system.UpdateTeacher",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Updatestudent",
+            "request": "launch",
+            "mainClass": "university.management.system.Updatestudent",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Teacherleavedetails",
+            "request": "launch",
+            "mainClass": "university.management.system.Teacherleavedetails",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Studentleavedetails",
+            "request": "launch",
+            "mainClass": "university.management.system.Studentleavedetails",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Teacherleave",
+            "request": "launch",
+            "mainClass": "university.management.system.Teacherleave",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "StudentLeave",
+            "request": "launch",
+            "mainClass": "university.management.system.StudentLeave",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Teacherdetails",
+            "request": "launch",
+            "mainClass": "university.management.system.Teacherdetails",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Studentdetails",
+            "request": "launch",
+            "mainClass": "university.management.system.Studentdetails",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "AddTeacher",
+            "request": "launch",
+            "mainClass": "university.management.system.AddTeacher",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Addstudent",
+            "request": "launch",
+            "mainClass": "university.management.system.Addstudent",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Project",
+            "request": "launch",
+            "mainClass": "university.management.system.Project",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Log",
+            "request": "launch",
+            "mainClass": "university.management.system.Log",
+            "projectName": "myproject_50db1e69"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Splash",
+            "request": "launch",
+            "mainClass": "university.management.system.Splash",
+            "projectName": "myproject_50db1e69"
+        }
+    ]
+}
